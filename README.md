@@ -2,6 +2,8 @@
 <h3>I am passionate about using data to solve problems and improve business processes</h3>
 
 - 💬 Ask me about **SQL, Alteryx, Power BI, Excel and Python**
+  
+- 📄 Take a look at my data analytics projects https://claudiobucene.github.io/ClaudioAnalytics.github.io/
 
 - 📫 Get in touch with me **claudiobucene@gmail.com**
 
