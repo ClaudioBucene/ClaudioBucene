@@ -4,7 +4,7 @@
 <h2>Professional Background</h2>
 <p> Computer Science Engineer with solid expirience in the tech field, I have been acting as an IT Auditor demonstrating expertise in helping organizations strengthen their IT environments by providing end-to-end digital assurance services. My focus is on evaluating IT General Controls (ITGC), application controls, and cybersecurity frameworks to ensure design & operating effectiveness as well as regulatory compliance. </p>
 
-<h2>Worldwide respected certifications</h2>
+<h2>Globally Recognized Certifications</h2>
 <p>CompTIA Security + certified</p>
 <p> ISC2 Certified in Cybersecurity</p>
 <p>ISO/IEC 27001:2022 Lead Auditor</p>
