@@ -12,7 +12,7 @@
 
   - 💬 Ask me about **SQL, Alteryx, Power BI, Excel and Python**
   
-- 📄 Take a look at my portfolio https://claudiobucene.github.io/ClaudioAnalytics.github.io/
+- 📄 Take a look at my professional website https://claudiobucene.github.io/ClaudioProfile.github.io/
 
 - 📫 Get in touch with me **claudiobucene@gmail.com**
 
